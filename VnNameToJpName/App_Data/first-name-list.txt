@@ -1,0 +1,195 @@
+﻿An / Ân -> アン
+Anh / Ảnh / Ánh -> アイン
+Âu -> アーウ
+Ba / Bá -> バ
+Bắc -> バック
+Bạch / Bách -> バック
+Bành -> バン
+Bao / Bảo -> バオ
+Ban / Băng / Bằng -> バン
+Bế -> Bích
+Bình -> ビン
+Bông -> ボン
+Bùi -> ブイ
+Can / Căn / Cán cấn -> カン
+Cao -> カオ
+Cẩm/ cam / cầm -> カム
+Cát -> カット
+Công -> コン
+Cúc -> クック
+Cương / Cường -> クオン
+Châu -> チャウ
+Chu -> ヅ
+Chi / Tri -> チー
+Chiến -> チェン
+Danh / Dân -> ヅアン
+Đức -> ドゥック
+Diễm -> ジエム
+Diễn -> ジエン
+Điểm / Điềm -> ディエム
+Diệu -> ジエウ
+Doanh -> ズアイン
+Doãn -> ゾアン
+Duẩn -> ヅアン
+Dung / Dũng -> ズン
+Duy -> ヅウィ
+Duyên / Duyền -> ヅエン
+Dương -> ヅオン
+Đại -> ダイ
+Đàm / Đảm -> ダム
+Đan/ Đàn/ Đán / Đản -> ダン
+Đào -> ダオ
+Đậu -> ダオウ
+Đạt -> ダット
+Đang/ Đăng/ Đặng /Đằng -> ダン
+Đinh/ Đình/ Định -> ディン
+Đoan / Đoàn -> ドアン
+Đỗ -> ドー
+Gấm -> グアム
+Giang -> ヅアン
+Gia -> ジャ
+Hà/ Hạ -> ハ
+Hàn / Hân/ Hán -> ハン
+Hai/ Hải -> ハイ(
+Hạnh -> ハン / ハイン
+Hậu -> ホウ
+Hào/ Hạo -> ハオ
+Hiền / Hiển -> ヒエン
+Hiệp -> ヒエップ
+Hoa / Hoà / Hoá / Hỏa / Họa -> ホア
+Học -> ホック
+Hoan / Hoàn / Hoàng -> ホアン/ ホーアン
+Hồ -> ホ
+Hồng -> ホン
+Hợp -> ホップ
+Huân -> フアン
+Hữu -> フュ
+Huy -> フィ
+Hùng / Hưng -> フン/ホウン
+Huyên / Huyền -> フェン/ホウエン
+Huỳnh -> フイン
+Hương/ Hường -> ホウオン
+Kiêm / Kiểm -> キエム
+Kiệt -> キエット
+Kiều -> キイエウ
+Kim -> キム
+Kỳ / Kỷ / Kỵ -> キ
+Khai / Khải -> カーイ/ クアイ
+Khanh / Khánh -> カイン/ ハイン
+Khang -> クーアン
+Khổng -> コン
+Khôi -> コイ/ コーイ/ コイー
+Khương -> クゥン
+Khuê -> クエ
+Khoa -> クォア
+Lan -> ラン
+Lai / Lai / Lài -> ライ
+Lê / Lễ / Lệ -> レ
+Lâm -> ラム
+Linh/ Lĩnh -> リン
+Liễu -> リエウ
+Loan -> ロン
+Lộc -> ロック
+Lực -> ルック
+Lụa / Lúa -> ルア
+Luân / Luận -> ルアン
+Lương / Lượng -> ルオン
+Lưu / Lựu -> リュ
+Ly / Lý -> リ
+Mạc / Mác -> マク
+Mai -> マイ
+Mạnh -> マイン
+Mẫn -> マン
+Minh -> ミン
+My / Mỹ -> ミ / ミー
+Nam -> ナム
+Nga / Ngà -> ガー/グア
+Ngân / Ngần -> ガン
+Nghĩa -> ギエ
+Nghiêm -> ギエム
+Ninh -> ニン
+Ngọc -> ゴック
+Ngô -> ゴー
+Nguyễn -> グエン
+Nguyệt -> グエット
+Nhân / Nhẫn / Nhàn -> ニャン
+Nhật / Nhất -> ニャット
+Nhi / Nhỉ -> ニー
+Nhung -> ヌウン
+Như / Nhu -> ヌー
+Nông -> ノオン
+Oanh -> オアン
+Phạm -> ファム
+Phan / Phạn -> ファン
+Phát -> ファット
+Phi -> フィ
+Phú -> フー
+Phúc -> フック
+Phùng -> フン
+Phương -> フオン
+Phong / Phòng / Phóng -> フォン
+Quân / Quang / Quảng -> クアン
+Quế -> クエ
+Quốc -> コック/ コク
+Quý / Quy / Quỳ -> クイ
+Quỳnh -> クーイン/クイン
+Quyên/ Quyền -> クェン
+Quyết -> クエット
+Sam / Sâm -> サム
+Sơn -> ソン
+Sinh -> シン
+Tài / Tại -> タイ
+Tân / Tấn -> タン
+Tâm -> タム
+Tiếp / Tiệp -> ティエップ
+Tiến / Tiên -> ティエン
+Tống -> トン
+Toan / Toàn / Toán / Toản -> トゥアン
+Tú -> ツー/ トゥ
+Tuân / Tuấn -> トゥアン
+Tuệ -> トゥエ
+Tùng -> トゥン
+Tuyết -> トゥエット
+Tường/ Tưởng -> トゥオン
+Thái -> タイ
+Thanh/ Thành / Thạnh -> タイン/ タン
+Thắm/Thẩm -> タム
+Thao/ Thạo/ Thạo/ Thảo -> タオ
+Thoa -> トーア/トア
+Thoan/ Thoản -> トアン
+Thoại -> トアイ
+Thị / Thi/ Thy -> ティ/ティー
+Thiệp -> ティエップ
+Thiên/ Thiện -> ティエン
+Thích -> ティック
+Thọ/ thơ/ tho -> トー
+Thông/ Thống -> トーン
+Thu/ Thụ -> トゥー
+Thuy/ Thùy/ Thuý/ Thụy -> トゥイ
+Thuỷ -> トゥイ
+Thư -> トゥー
+Thương / Thường -> トゥオン
+Trang / Tráng -> チャン/ ツアン
+Trân / Trần -> チャン/ ツアン
+Tram / Tràm / Trâm -> チャム
+Trí/ Chi/ Tri -> チー
+Triển -> チエン
+Triết -> チエット
+Trọng -> チョン
+Triệu -> チエウ
+Trinh/ Trịnh/ Trình -> チン
+Trung -> ツーン
+Trúc -> ツック
+Trương / Trường -> チュオン
+Uông -> ウオン
+Ứng/ Ưng -> ウン
+Uyên/ Uyển -> ウエン
+Văn/ Vận/ Vân -> ヴァン
+Vĩnh -> ヴィン
+Vi/ Vĩ -> ヴィ
+Võ -> ヴォ
+Vũ -> ヴー
+Vui -> ヴーイ
+Vương/ Vượng/ Vường -> ヴオン
+Xuân/Xoan -> スアン
+Yên/ Yến -> イェン

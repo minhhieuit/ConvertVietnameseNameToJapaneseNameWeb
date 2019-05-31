@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+}
+@model IEnumerable<VnNameToJpName.Models.Word>
+<h1>Chuyển tên tiếng Việt sang tên Tiếng Nhật</h1>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Tiếng Việt</th>
+            <th>Tiếng Nhật</th>
+            <th>Phân tích từ</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayTextFor(o=>item.STT)</td>
+                <td>@Html.DisplayTextFor(o=>item.Vietnamese)</td>
+                <td>@Html.DisplayTextFor(o=>item.Japanese)</td>
+                <td>
+                    @foreach(var word in item.ListWord)
+                    {
+                        <span>@word</span> <br />
+                    }
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
